@@ -1,0 +1,1 @@
+sudo subl /etc/wireguard/wg0.conf
