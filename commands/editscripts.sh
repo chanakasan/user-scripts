@@ -1,1 +1,1 @@
-subl ~/scripts
+cursor ~/scripts
