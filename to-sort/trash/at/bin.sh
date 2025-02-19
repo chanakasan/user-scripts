@@ -1,1 +1,0 @@
-bash $(pwd)/bin/start
